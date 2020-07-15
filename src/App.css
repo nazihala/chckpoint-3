@@ -1,0 +1,18 @@
+.App{display: flex;
+     margin-left: 200PX;
+     margin-right: 300px;
+     justify-content: center;
+     color: white;
+     background-color:#85C1E9 ;
+     width: 1000px;
+     height: 1000px;
+
+
+}
+Form{width: 500px;
+     height: 50px;
+     text-align: center;
+
+     
+     
+}
